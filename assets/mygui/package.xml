@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="gaqmoieg" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="9u6y0" name="Component1.xml" path="/"/>
+  </resources>
+  <publish name="mygui" genCode="true"/>
+</packageDescription>
