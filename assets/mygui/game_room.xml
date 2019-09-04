@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1280,720">
   <displayList>
-    <text id="n0_pkfv" name="intro" xy="301,192" size="868,71" font="Microsoft YaHei" fontSize="52" text="這是測試~這是測試這是測試這是測試"/>
+    <text id="n0_pkfv" name="intro" xy="301,192" size="868,71" font="Microsoft YaHei" fontSize="52" color="#ffffff" text="這是測試~這是測試這是測試這是測試"/>
   </displayList>
 </component>
