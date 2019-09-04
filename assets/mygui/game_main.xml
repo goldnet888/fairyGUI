@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="400,400"/>
+<component size="1280,720">
+  <displayList>
+    <text id="n0_pkfv" name="n0" xy="330,185" size="879,103" font="Microsoft YaHei" fontSize="76" color="#336600" text="這是測試!~這是場景Main"/>
+  </displayList>
+</component>
