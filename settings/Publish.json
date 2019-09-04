@@ -2,7 +2,7 @@
 	"binaryFormat":true,
 	"codeGeneration":{
 		"classNamePrefix":"",
-		"codePath":"D:\\K_data\\laya2\\exampleGUI\\src\\ui",
+		"codePath":"D:\\Code\\github\\layaboxDemo\\src\\ui",
 		"codeType":"TS-2",
 		"getMemberByName":true,
 		"ignoreNoname":true,
@@ -12,5 +12,5 @@
 	"compressDesc":false,
 	"fileExtension":"fui",
 	"packageCount":2,
-	"path":"D:\\K_data\\laya2\\exampleGUI\\bin\\res\\mygui"
+	"path":"D:\\Code\\github\\layaboxDemo\\bin\\res\\mygui"
 }
